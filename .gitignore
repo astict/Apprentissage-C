@@ -1,0 +1,9 @@
+# Fichiers exécutables générés par GCC
+*.exe
+*.out
+
+# Fichiers objets
+*.o
+
+# Fichiers de débogage
+*.gdb
