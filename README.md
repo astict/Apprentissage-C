@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=yPusK0GXIeI&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1
 https://www.youtube.com/watch?v=1Xl1G-x-5jc&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=9
 
 
-### TUTO N°10 - Modularité -- ⏳
+### TUTO N°10 - Modularité -- ✅
 
 https://www.youtube.com/watch?v=UF3d7HHa_-M&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=10
 
@@ -95,7 +95,7 @@ https://www.youtube.com/watch?v=f82SHva6t-c&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1
 https://www.youtube.com/watch?v=-ayL6Yvb9-I&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=12
 
 
-### TUTO N°13 - Pointeurs -- ⏳
+### TUTO N°13 - Pointeurs -- ✅
 
 https://www.youtube.com/watch?v=K_FhgzTyBMQ&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=13
 
