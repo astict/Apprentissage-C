@@ -28,7 +28,7 @@
 
 #include <stdio.h>
 
-int* getNumber()
+int* getNumber(void)
 {
     static int a = 19;
     return &a;
