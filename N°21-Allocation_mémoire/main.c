@@ -16,9 +16,11 @@
 
 #define ARRAY_SIZE 15
 
+
 int main(void)
 {
-    int* array = malloc(ARRAY_SIZE * sizeof(*array));
+    //  int* array = malloc(ARRAY_SIZE * sizeof(*array));
+    int* array = calloc(ARRAY_SIZE, sizeof(*array));
 
     if(!array)
     {
