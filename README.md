@@ -135,7 +135,7 @@ https://www.youtube.com/watch?v=2AfVkgvzG_Y&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1
 https://www.youtube.com/watch?v=lD60NnWPcRA&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=20
 
 
-### TUTO N°21 - Allocation mémoire -- ⏳
+### TUTO N°21 - Allocation mémoire -- ✅
 
 https://www.youtube.com/watch?v=VPzinesc8dk&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=21
 
