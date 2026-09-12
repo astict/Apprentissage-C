@@ -110,7 +110,7 @@ https://www.youtube.com/watch?v=7Kkghi2vLA8&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1
 https://www.youtube.com/watch?v=if57oHSZm7E&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=15
 
 
-### TUTO N°16 - Structures -- ⏳
+### TUTO N°16 - Structures -- ✅
 
 https://www.youtube.com/watch?v=wUgW_dGktS0&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=16
 
