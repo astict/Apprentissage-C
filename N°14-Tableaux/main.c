@@ -1,4 +1,5 @@
 /*
+
     Tableau : type de données stockées en mémoire de manière contigüe
         - on ne peut pas assigner de valeur à un tableau
         - on ne peut pas comparer des tableaux entre eux

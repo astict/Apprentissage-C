@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=-ayL6Yvb9-I&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1
 https://www.youtube.com/watch?v=K_FhgzTyBMQ&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=13
 
 
-### TUTO N°14 - Tableaux -- ⏳
+### TUTO N°14 - Tableaux -- ✅
 
 https://www.youtube.com/watch?v=7Kkghi2vLA8&list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP&index=14
 
